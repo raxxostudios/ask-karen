@@ -1,5 +1,7 @@
 # ask-karen
 
+![Karen demo](demo.gif)
+
 A joke slash command for [Claude Code](https://claude.com/claude-code). Summons Karen. Karen will answer your question, but only after six thousand words of complaints, demands to speak to the manager, medical TMI, unsolicited casserole recipes, and grievances about her ex-husband Greg.
 
 She will eat your session tokens. That is the point.

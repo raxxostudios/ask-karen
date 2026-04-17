@@ -5,3 +5,4 @@
 node_modules/
 *.log
 PROMO_PLAN.md
+scripts/_frames/
